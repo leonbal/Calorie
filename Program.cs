@@ -7,3 +7,5 @@ Console.writeLine("Fuck fat bitches :))");
 ayoo
 
 Console.WriteLine("Mike Hunt");
+
+Console.Writeline("Fuck tottenham")
