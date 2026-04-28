@@ -1,0 +1,5 @@
+/workspaces/Calorie/obj/Debug/net8.0/Cal_Track_app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calorie/obj/Debug/net8.0/Cal_Track_app.AssemblyInfoInputs.cache
+/workspaces/Calorie/obj/Debug/net8.0/Cal_Track_app.AssemblyInfo.cs
+/workspaces/Calorie/obj/Debug/net8.0/Cal_Track_app.csproj.CoreCompileInputs.cache
+/workspaces/Calorie/obj/Debug/net8.0/Cal_Track_app.sourcelink.json
